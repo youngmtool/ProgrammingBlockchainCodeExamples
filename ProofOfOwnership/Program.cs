@@ -10,7 +10,7 @@ namespace ProofOfOwnership
         static void Main()
         {
             //========================================================================================
-            //Section8. Proof of an ownership as an authentication method
+            //Chapter8. Proof of an ownership as an authentication method
             
             SignAsCraigWright();
             VerifySatoshi();
